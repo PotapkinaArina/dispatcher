@@ -1,4 +1,5 @@
 ﻿  Airplane.cpp
   main.cpp
   Создание кода...
-  dispatcher.vcxproj -> C:\Users\USER\source\repos\dispatcher\x64\Debug\dispatcher.exe
+  LINK : не найден или не выполнена сборка C:\Users\anans\Desktop\airplanes\x64\Debug\dispatcher.exe при последней инкрементной компоновке; выполняется полная компоновка
+  dispatcher.vcxproj -> C:\Users\anans\Desktop\airplanes\x64\Debug\dispatcher.exe
