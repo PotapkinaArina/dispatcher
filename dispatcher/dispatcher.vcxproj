@@ -133,7 +133,7 @@
     <ClInclude Include="Runway.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\Runway.cpp" />
+    <ClCompile Include="Runway.cpp" />
     <ClCompile Include="Airplane.cpp" />
     <ClCompile Include="Airport.cpp" />
     <ClCompile Include="main.cpp" />

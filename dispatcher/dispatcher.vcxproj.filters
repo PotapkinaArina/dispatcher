@@ -38,7 +38,7 @@
     <ClCompile Include="Airport.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Downloads\Runway.cpp">
+    <ClCompile Include="Runway.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
