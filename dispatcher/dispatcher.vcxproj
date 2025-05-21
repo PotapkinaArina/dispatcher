@@ -128,10 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Airplane.h" />
+    <ClInclude Include="Airport.h" />
     <ClInclude Include="LevelManager.h" />
+    <ClInclude Include="Runway.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\Downloads\Runway.cpp" />
     <ClCompile Include="Airplane.cpp" />
+    <ClCompile Include="Airport.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
