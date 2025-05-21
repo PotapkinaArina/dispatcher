@@ -17,5 +17,5 @@ public:
     Runway* findAvailableRunway(int requiredLength);
     size_t getRunwayCount() const;
     size_t getTaxiwayCount() const;
-    const std::vector<Runway>& getAllRunways() const;
+    const vector<Runway>& getAllRunways() const;
 };

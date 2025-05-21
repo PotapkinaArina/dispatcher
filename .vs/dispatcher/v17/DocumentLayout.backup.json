@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\anans\\Desktop\\airplanes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Runway.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Runway.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\PlayerProfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\PlayerProfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\PlayerProfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\PlayerProfile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Airport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Runway.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Runway.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\LevelManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\LevelManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Airplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airplane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Airplane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Airport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66E9EA8F-3D69-4DD4-BC65-BBBF18365BBC}|dispatcher\\dispatcher.vcxproj|solutionrelative:dispatcher\\Airport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\main.cpp",
               "RelativeDocumentMoniker": "dispatcher\\main.cpp",
               "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\main.cpp",
               "RelativeToolTip": "dispatcher\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T15:16:52.689Z",
               "IsPinned": true,
@@ -60,94 +52,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Airport.h",
               "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.h",
               "RelativeDocumentMoniker": "dispatcher\\Airport.h",
               "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.h",
               "RelativeToolTip": "dispatcher\\Airport.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-19T18:19:07.208Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Airport.cpp",
               "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.cpp",
               "RelativeDocumentMoniker": "dispatcher\\Airport.cpp",
               "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airport.cpp",
               "RelativeToolTip": "dispatcher\\Airport.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-19T18:19:34.744Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Airplane.h",
-              "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airplane.h",
-              "RelativeDocumentMoniker": "dispatcher\\Airplane.h",
-              "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airplane.h",
-              "RelativeToolTip": "dispatcher\\Airplane.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-14T10:56:15.021Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Airplane.cpp",
-              "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airplane.cpp",
-              "RelativeDocumentMoniker": "dispatcher\\Airplane.cpp",
-              "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Airplane.cpp",
-              "RelativeToolTip": "dispatcher\\Airplane.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T14:53:23.277Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Runway.h",
-              "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Runway.h",
-              "RelativeDocumentMoniker": "dispatcher\\Runway.h",
-              "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Runway.h",
-              "RelativeToolTip": "dispatcher\\Runway.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T18:30:27.44Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "LevelManager.h",
               "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\LevelManager.h",
               "RelativeDocumentMoniker": "dispatcher\\LevelManager.h",
               "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\LevelManager.h",
               "RelativeToolTip": "dispatcher\\LevelManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-19T18:32:07.277Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerProfile.h",
+              "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\PlayerProfile.h",
+              "RelativeDocumentMoniker": "dispatcher\\PlayerProfile.h",
+              "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\PlayerProfile.h",
+              "RelativeToolTip": "dispatcher\\PlayerProfile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-21T16:43:31.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Runway.cpp",
-              "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Runway.cpp",
-              "RelativeDocumentMoniker": "dispatcher\\Runway.cpp",
-              "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\Runway.cpp",
-              "RelativeToolTip": "dispatcher\\Runway.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "PlayerProfile.cpp",
+              "DocumentMoniker": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\PlayerProfile.cpp",
+              "RelativeDocumentMoniker": "dispatcher\\PlayerProfile.cpp",
+              "ToolTip": "C:\\Users\\anans\\Desktop\\airplanes\\dispatcher\\PlayerProfile.cpp",
+              "RelativeToolTip": "dispatcher\\PlayerProfile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-21T16:05:23.524Z",
+              "WhenOpened": "2025-05-21T16:43:57.519Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

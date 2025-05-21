@@ -1,4 +1,12 @@
-﻿  Airport.cpp
+﻿  PlayerProfile.cpp
+  Runway.cpp
+C:\Users\anans\Desktop\airplanes\dispatcher\PlayerProfile.h(8,2): error C2144: синтаксическая ошибка: перед "void" требуется ";"
+  (компиляция исходного файла "PlayerProfile.cpp")
+  
+C:\Users\anans\Desktop\airplanes\dispatcher\PlayerProfile.h(7,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "PlayerProfile.cpp")
+  
+  Airplane.cpp
+  Airport.cpp
   main.cpp
   Создание кода...
-  dispatcher.vcxproj -> C:\Users\anans\Desktop\airplanes\x64\Debug\dispatcher.exe

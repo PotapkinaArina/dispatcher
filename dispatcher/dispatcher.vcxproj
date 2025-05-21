@@ -130,9 +130,11 @@
     <ClInclude Include="Airplane.h" />
     <ClInclude Include="Airport.h" />
     <ClInclude Include="LevelManager.h" />
+    <ClInclude Include="PlayerProfile.h" />
     <ClInclude Include="Runway.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="PlayerProfile.cpp" />
     <ClCompile Include="Runway.cpp" />
     <ClCompile Include="Airplane.cpp" />
     <ClCompile Include="Airport.cpp" />
