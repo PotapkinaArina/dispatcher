@@ -1,12 +1,5 @@
-﻿  PlayerProfile.cpp
-  Runway.cpp
-C:\Users\anans\Desktop\airplanes\dispatcher\PlayerProfile.h(8,2): error C2144: синтаксическая ошибка: перед "void" требуется ";"
-  (компиляция исходного файла "PlayerProfile.cpp")
-  
-C:\Users\anans\Desktop\airplanes\dispatcher\PlayerProfile.h(7,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-  (компиляция исходного файла "PlayerProfile.cpp")
-  
-  Airplane.cpp
-  Airport.cpp
+﻿  Manager.cpp
   main.cpp
   Создание кода...
+C:\Users\anans\Desktop\airplanes\dispatcher\Manager.cpp(31,1): warning C4715: Manager::findProfile: значение возвращается не при всех путях выполнения
+  dispatcher.vcxproj -> C:\Users\anans\Desktop\airplanes\x64\Debug\dispatcher.exe

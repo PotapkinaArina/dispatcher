@@ -5,11 +5,6 @@
 using namespace std;
 
 class Airport {
-private:
-    vector<Runway> runways;
-    vector<int> taxiways;
-    // тут должны быть рулежные дорожки, но пока просто ID
-
 public:
     Airport(bool addDefaultRunways = true);
     void addRunway(int id, int length, RunwayDirection dir);
@@ -18,4 +13,8 @@ public:
     size_t getRunwayCount() const;
     size_t getTaxiwayCount() const;
     const vector<Runway>& getAllRunways() const;
+private:
+    vector<Runway> runways;
+    vector<int> taxiways;
+    // тут должны быть рулежные дорожки, но пока просто ID
 };

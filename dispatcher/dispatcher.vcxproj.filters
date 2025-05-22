@@ -18,16 +18,13 @@
     <ClInclude Include="Airplane.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
-    <ClInclude Include="LevelManager.h">
-      <Filter>Файлы ресурсов</Filter>
-    </ClInclude>
     <ClInclude Include="Airport.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
     <ClInclude Include="Runway.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
-    <ClInclude Include="PlayerProfile.h">
+    <ClInclude Include="Manager.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
   </ItemGroup>
@@ -44,7 +41,7 @@
     <ClCompile Include="Runway.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="PlayerProfile.cpp">
+    <ClCompile Include="Manager.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
