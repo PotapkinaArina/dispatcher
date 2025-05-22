@@ -1,5 +1,1 @@
-﻿  Manager.cpp
-  main.cpp
-  Создание кода...
-C:\Users\anans\Desktop\airplanes\dispatcher\Manager.cpp(31,1): warning C4715: Manager::findProfile: значение возвращается не при всех путях выполнения
-  dispatcher.vcxproj -> C:\Users\anans\Desktop\airplanes\x64\Debug\dispatcher.exe
+﻿

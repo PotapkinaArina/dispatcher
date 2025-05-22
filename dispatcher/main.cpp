@@ -43,7 +43,7 @@ int main() {
 			cout << endl;
 			cout << "Type command:" << endl;
 			cout << "Start - to start the game" << endl;
-			cout << "Choose player - to choose the game" << endl;
+			cout << "Choose player - to choose player" << endl;
 			cout << "Create player - to create player" << endl;
 			cout << "Exit - to exit the game" << endl;
 			cout << '\n';
@@ -68,6 +68,10 @@ int main() {
 
 		else if (command == "Choose player") {
 			clearConsole();
+			
+			cout << "List of the players:" << endl;
+			globalManager.listNames();
+			cout << endl;
 
 			cout << "Input the name of the player please: ";
 			string nickname;
@@ -78,6 +82,7 @@ int main() {
 				globalManager.loadProfile(nickname);
 				cout << "Profile of player " << nickname << " was loaded successfully!" << endl;
 				Player = nickname;
+				command = "menu";
 			}
 			else {
 				cout << "There is no players with name " << nickname << ", you need to create one first." << endl;
@@ -121,60 +126,3 @@ int main() {
 		else cout << "Invalid command" << endl;
 	}
 }
-
-#ifdef sample
-int main() {
-
-	else if (input == "Create player") {
-		cout << "Input the name please:" << endl;
-		string name;
-		getline(cin, name);
-
-		cout << "Would you like to start the game? (Yes or No)" << endl;
-		string answer;
-		getline(cin, answer);
-		if (answer == "Yes") cout << "NOTHING HERE" << endl;
-		else if (answer == "No") return 0; //will get back to menu
-		else cout << "Invalid command" << endl;
-	}
-	else if (input == "Exit") return 0;
-	else cout << "Invalid command" << endl;
-	return 0;
-}
-
-void printInfo(const Airport& airport) {
-	cout << "Number of runways: " << airport.getRunwayCount() << endl;
-	cout << "Number of taxiways: " << airport.getTaxiwayCount() << endl;
-
-	for (const auto& runway : airport.getAllRunways()) {
-		cout << "Runway #" << runway.getId()
-			<< ": length=" << runway.getLength() << "m, "
-			<< "direction=" << static_cast<int>(runway.getDirection()) << " degree, "
-			<< (runway.isAvailableNow() ? "free" : "busy") << endl;
-	}
-}
-
-int main()
-{
-	LevelManager manager;
-
-	vector<Airplane* > planes;
-	planes.push_back(new SmallPlane());
-	planes.push_back(new MediumPlane());
-	planes.push_back(new TrainingPlane());
-
-	for (int i = 0; i < planes.size(); i++)
-	{
-		planes[i]->printInfo();
-		cout << endl;
-	}
-
-	Airport airport(true);
-	printInfo(airport);
-	airport.addRunway(4, 4000, RunwayDirection::WEST);
-	// Это тест ВПП с существующим ID
-	airport.addRunway(2, 1500, RunwayDirection::NORTH);
-	Airport emptyAirport(false);
-	printInfo(emptyAirport);
-}
-#endif

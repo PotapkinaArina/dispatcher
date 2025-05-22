@@ -12,6 +12,7 @@ public:
 	int getLastLevel() { return lastLevel; }
 	void setLastLevel(int level) { lastLevel = level; }
 
+	void listNames();
 	void createProfile(const string& n);
 	bool findProfile(const string& n);
 	void saveProfile();

@@ -6,6 +6,19 @@ using namespace std;
 
 Manager globalManager;
 
+void Manager::listNames()
+{
+    ifstream file("profiles.json");
+    json data;
+    if (file.is_open()) {
+        file >> data;
+        file.close();
+        for (auto& player : data.items()) {
+            printf("%s\n", player.key().c_str());
+        }
+    }
+}
+
 void Manager::createProfile(const string& n)
 {
     name = n;
@@ -21,7 +34,7 @@ bool Manager::findProfile(const string& n)
     if (file.is_open()) {
         file >> data;
         file.close();
-        if (data.contains(name)) {
+        if (data.contains(n)) {
             return true;
         }
         else {
@@ -46,16 +59,16 @@ void Manager::saveProfile()
 	outfile.close();
 }
 
-void Manager::loadProfile(const string& name)
+void Manager::loadProfile(const string& n)
 {
     ifstream file("profiles.json");
     json data;
     if (file.is_open()) {
         file >> data;
         file.close();
-        if (data.contains(name)) {
-            this->name = name;
-            this->lastLevel = data[name]["lastLevel"];
+        if (data.contains(n)) {
+            this->name = n;
+            this->lastLevel = data[n]["lastLevel"];
         }
     }
 }
