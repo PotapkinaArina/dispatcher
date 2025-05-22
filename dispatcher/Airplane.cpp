@@ -21,10 +21,17 @@ void Airplane::printInfo() const
 	else if (state == PlaneState::WAITING_LANDING) s = "Waiting Landing";
 	else s = "Waiting Takeoff";
 
+	string d;
+	if (direction == Direction::EAST) d = "East";
+	if (direction == Direction::NORTH) d = "North";
+	if (direction == Direction::SOUTH) d = "South";
+	else d = "West";
+
 	cout << "Plane Model: " << m << endl;
 	cout << "Plane State: " << s << endl;
 	cout << "Operation time: " << operationTime << endl;
 	cout << "Max circles: " << maxCircles << endl;
 	cout << "Penalty: " << penalty << endl;
 	cout << "Track lenght: " << trackLenght << endl;
+	cout << "Direction: " << d << endl;
 }
